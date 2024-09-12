@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/nonle-dev.svg" width="1200" alt="Non Le" />
+  <img src="nonle-dev.svg" width="1200" alt="Non Le" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
