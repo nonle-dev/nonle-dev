@@ -2768,8 +2768,8 @@
     font-family: Comic Sans MS, sans-serif;
     font-weight: bold;
     white-space: nowrap; 
-    padding-top: 630px;
-    padding-left: 810px;
+    padding-top: 680px;
+    padding-left: 830px;
 }
 
 .word {
